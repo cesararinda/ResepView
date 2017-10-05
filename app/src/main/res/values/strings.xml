@@ -1,0 +1,179 @@
+<resources>
+    <string name="app_name">ResepView</string>
+
+    <string-array name="food_name">
+        <item>Sop Ceker Ayam</item>
+        <item>Iga Bakar</item>
+        <item>Rendang Daging</item>
+        <item>Lele Saos Padang</item>
+        <item>Ayam Panggang</item>
+
+
+    </string-array>
+
+    <string-array name="desc">
+        <item>Sop Ceker Ayam dengan kaldu yang Gurih</item>
+        <item>Iga Bakar dengan daging yang sangat enak</item>
+        <item>Rendang Daging makanan terenak di dunia</item>
+        <item>Lele Saos Padang dengan saos berasa enak</item>
+        <item>Ayam Panggang dengan bumbu yang khas</item>
+
+    </string-array>
+
+    <string-array name="cara">
+    <item>
+        Bahan-Bahan yang Diperlukan Untuk Membuat Masakan Sup/Sop Ceker Ayam\n
+    Bahan Utama\n\n
+    •	8 buah ceker ayam\n
+    •	2 buah kentang\n
+    •	1 batang daun bawang\n
+    •	3 buah wortel\n
+    •	1 batang seledri\n
+    •	1 buah tomat\n
+    •	1/2 sdt gula pasir\n
+    •	Garam secukupnya\n
+    Bumbu-Bumbu\n\n
+    •	6 siung bawang putih\n
+    •	4 siung bawang merah\n
+    •   	Merica butir secukupnya\n
+    Cara Membuat\n\n
+    Cara Menyiapkan Bahan dan Membuat Bumbu\n
+    1.	Langkah pertama yaitu, bersihkan terlebih dahulu ceker yang telah disiapkan.\n
+    2.	Potong kentang berbentuk dadu.\n
+    3.	Potong wortel berbentuk bulat.\n
+    4.	Iris daun bawang dengan ukuran 1 cm.\n
+    5.	Iris halus seledri dan belah tomat menjadi 4 bagian.\n
+    6.	Haluskan semua bumbu yang telah disiapkan seperti bawang merah-bawang putih, dan merica butir.\n
+    Cara Memasak\n\n
+    1.	Langkah pertama yaitu, rebus terlebih dahulu ceker ayam. Dan buang sebagian air bekas rebusannnya, sisihkan.\n
+    2.	Setelah itu, tumis semua bumbu yang telah dihaluskan hingga tercium harumnya.\n
+    3.	Lalu, masukan sayuran seperti wortel, tomat dan kentang. Tambahkan pula garam dan gula pasir secukupnya. Aduk hingga merata.\n
+    4.	Kemudian, tuangkan air secukupnya ke dalam tumisan ini. Diamkan hingga mendidih.\n
+    \n
+
+    </item>
+        <item>
+        Bahan-Bahan yang Diperlukan Untuk Membuat Masakan Iga Bakar\n
+    Bahan-bahan\n\n
+    5 porsi\n
+    1.	1/2 kg iga sapi\n
+    2.	3 siung bawang putih\n
+    3.	7 bh bawang merah\n
+    4.	4 bh cabe\n
+    5.	3 sdm kecap manis\n
+    6.	2 sdm madu\n
+    7.	1 sdt garam\n
+    8.	1/2 sdt gula\n
+    9.	1/2 sdt merica\n
+    Cara Memasak\n\n
+    1.	Presto iga sampai empuk (tambahkan 1/2 sdt garam pd air tebusannya). Angkat tiriskan.\n
+    2.	Tumis duo bawang, tambahkan cabai, masukkan iga, garam, gula, merica, kecap serta madu.\n
+    3.	Aduk2 hingga bumbu tercampur rata dan meresap pd iga. Angkat.\n
+    4.	Panggang pd teflon atau happy call, bolak balik smbil dioles sisa kuah kecap nya.\n
+    5.	Sajikan dgn taburan bawang goreng.\n
+    \n
+
+
+    </item>
+
+        <item>
+       Bahan-Bahan yang Diperlukan Untuk Membuat Masakan Rendang Daging\n
+
+    Bahan Rendang Daging :\n\n
+    •	daging sapi lulur 500 gram, potong melebar kurang lebih 12 bagian\n
+    •	daun kunyit 2 lembar\n
+    •	daun jeruk 2 lembar\n
+    •	serai 2 batang, memarkan\n
+    •	pekak 1 buah\n
+    •	kelapa parut sangrai 2 sendok makan\n
+    •	santan 1000-1500 ml dari 2 butir kelapa\n
+    •	minyak goreng 2 sendok makan\n
+
+    Resep Bumbu Halus Rendang Daging :\n\n
+    •	bawang merah 10 butir\n
+    •	bawang putih 6 siung\n
+    •	cabai merah 150 gram\n
+    •	cabai rawit sesuai selera\n
+    •	kemiri 5 butir\n
+    •	jinten 1/2 sendok teh\n
+    •	ketumbar 1 sendok teh\n
+    •	kunyit 1/2 cm\n
+    •	jahe 1 cm\n
+    •	garam secukupnya\n
+
+
+
+    Cara Membuat Rendang Daging :\n\n
+    •	Panaskan minyak, tumis bumbu halus, daun kunyit, daun jeruk, serai dan pekak hingga harum.\n
+    •	Masukkan daging, aduk hingga berubah warna.\n
+    •	Tuang santan dan tambahkan kelapa parut sangrai, masak di atas api sedang sambil diaduk perlahan hingga mendidih.\n
+    •	Kecilkan api, masak hingga daging matang, berminyak dan kecoklatan.\n
+    •	Angkan dan sajikan.\n
+    \n
+
+    </item>
+        <item>
+       Bahan-Bahan yang Diperlukan Untuk Membuat Masakan Lele Saos Padang\n
+    Bahan yang diperlukan:\n\n
+    	Ikan lele 4 ekor, ukuran sesuai selera\n
+    	Bawang merah 3 buah\n
+    	Bawang putih 3 siung\n
+    	Cabai merah ukuran besar 5 buah\n
+    	Saus sambal ekstra pedas secukupnya\n
+    	Bumbu ikan instan 1 bungkus\n
+    	Bawang goreng secukupnya\n
+    	Lada bubuk secukupnya\n
+    	Penyedap rasa secukupnya\n
+    	Garam dan gula secukupnya\n
+
+    Cara membuat:\n\n
+    	Cuci bersih ikan lele, keluarkan isi perut dan sayat bagian dagingnya\n
+    	Lumuri dengan bumbu ikan instan, lalu diamkan selama kurang lebih 1 jam\n
+    	Panaskan minyak goreng, lalu goreng ikan lele sampai matang dan kering, angkat dan sisihkan\n
+    	Panaskan 4 sendok makan minyak, lalu masukkan bawang merah, bawang putih dan cabai merah, goreng hingga layu, angkat dan tiris kan\n
+    	Halus kan Cabai, bawang merah dan bawang putih menggunakan cobek, beri air sedikit agar lebih mudah\n
+    	Panaskan minyak\n
+    	Masukkan bumbu yang telah dihalus kan hingga matang dan harum\n
+    	Masukkan lada bubuk, saus sambal botol, garam, gula pasir dan penyedap rasa\n
+    	Masak hingga bumbu matang dan mendidih\n
+    	Siapkan ikan lele dalam piring, lalu tuang saus diatas nya\n
+    	Ikan lele saus padang siap dihidangkan bersama taburan bawang goreng\n
+    \n
+
+    </item>
+        <item>
+
+       Bahan-Bahan yang Diperlukan Untuk Membuat Masakan Ayam Panggang\n
+    Bahan-bahan\n\n
+    •	1 ekor ayam (kira-kira 1 kg, boleh dipotong-potong).\n
+    •	4 lembar daun salam.\n
+    •	2 batang serai, memarkan.\n
+    •	3 sendok makan irisan gula jawa.\n
+    •	2 sendok makan air asam jawa.\n
+    •	500 ml santan.\n
+    •	Garam secukupnya.\n
+    •	Minyak goreng untuk menumis.\n
+    Bumbu yang dihaluskan\n\n
+    •	6 butir bawang merah.\n
+    •	5 siung bawang putih.\n
+    •	1 sendok makan ketumbar bubuk.\n
+    •	5 butir kemiri, sangrai.\n
+    •	½ sendok tehmerica bubuk.\n
+    •	1 cm jahe.\n
+    •	1 cm lengkuas.\n
+    Cara membuat\n\n
+    •	Haluskan bumbu, lalu tumis bumbu beserta serai dan daun salam sampai harum.\n
+    •	Masukkan ayam, aduk-aduk sampai ayam berubah warna.\n
+    •	Masukkan irisan gula jawa dan air asam perlahan-lahan, aduk hingga rata.\n
+    •	Tambahkan santan sedikit demi sedikit sambil diaduk agar santan tidak pecah.\n
+    •	Masak pada api sedang hingga kuah santan mengental; angkat ayam.\n
+    •	Panggang ayam sambil diolesi bumbu sampai matang.\n
+    \n
+
+
+
+    </item>
+    </string-array>
+
+
+</resources>
